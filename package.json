@@ -25,6 +25,9 @@
     "superjson": "1.12.2",
     "zod": "^3.21.4"
   },
+  "prisma": {
+    "schema": "./prisma/schema.prisma"
+  },
   "devDependencies": {
     "@types/eslint": "^8.37.0",
     "@types/node": "^18.16.0",
